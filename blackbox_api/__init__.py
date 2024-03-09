@@ -8,4 +8,4 @@
         ╔═╝║                    
         ╚══╝                    
     '''
-from blackbox import *
+from .blackbox import *
