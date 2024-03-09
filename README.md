@@ -7,3 +7,8 @@
  prompt = input('Please input prompt: ')
  blackbox.blackbox('API_KEY', prompt)
  ```
+ ```
+ installing library:
+ 
+ pip install blackbox_api
+ ```
