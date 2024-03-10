@@ -1,14 +1,14 @@
-# blackbox-api
- An unofficial api to work with blackbox.ai on python
+# megagpt
+ An unofficial api to work with original chatgpt on python
  
  Example code:
  ```
- import blackbox
+ import megagpt
  prompt = input('Please input prompt: ')
- blackbox.blackbox('API_KEY', prompt)
+ megagpt.freegpt(prompt)
  ```
 
  installing library:
  ```
- pip install blackbox_api
+ pip install megagpt
  ```
